@@ -1,8 +1,8 @@
 ---
 layout: default
-title: rhildred.github.io
+title: mkoroth.github.io
 robots: noindex
-tagline: '"Creative Active Individuals can only grow up in a society that emphasizes learning instead of teaching." - Chris Alexander'
+tagline: '"Be the change that you want to see in the world."-Gandhi'
 exclude_from_search: true
 ---
 
